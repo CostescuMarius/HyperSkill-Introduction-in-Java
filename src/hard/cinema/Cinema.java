@@ -1,4 +1,4 @@
-package medium.cinema;
+package hard.cinema;
 
 import java.util.*;
 

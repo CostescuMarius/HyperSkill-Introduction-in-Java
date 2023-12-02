@@ -1,4 +1,4 @@
-package easy.zookeeper;
+package medium.zookeeper;
 
 import java.util.Scanner;
 public class Main {
