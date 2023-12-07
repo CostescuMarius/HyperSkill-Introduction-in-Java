@@ -1,4 +1,4 @@
-package bullscows;
+package challenging.bullscows;
 
 import java.util.Arrays;
 import java.util.Random;
