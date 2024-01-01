@@ -1,4 +1,4 @@
-package hard.cinema;
+package hard.lastpencil;
 
 import java.util.InputMismatchException;
 import java.util.Random;
